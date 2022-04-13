@@ -1,3 +1,35 @@
-.container{
+body{
+    font-size: 20px;
+    background-color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
+h3{
+    font-size: 40px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+    
+h1{
+    font-size: 150px;
+}
+
+#txt {
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.container2 {
+    position: relative;
+    text-align: center;
 }
